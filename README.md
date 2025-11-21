@@ -5,14 +5,14 @@
 
 ---
 
-## ✨ About Me  
-- 🌱 Working with **Flutter & Dart**  
-- 📱 Built apps like **Real Time Chat App, Notes App, Adidas Clone, Calculator, WhatsApp UI,, Authentication & API Projects**  
-- 🎯 Goal: Continue growing as a **Flutter developer**  
+##  About Me  
+-  Working with **Flutter & Dart**  
+-  Built apps like **Real Time Chat App, Notes App, Adidas Clone, Calculator, WhatsApp UI,, Authentication & API Projects**  
+-  Goal: Continue growing as a **Flutter developer**  
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/> 
