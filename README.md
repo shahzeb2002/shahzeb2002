@@ -1,6 +1,6 @@
 <!-- Portfolio-Style GitHub Profile README -->
 
-<h1 align="center">👋 Hi, I'm <strong>Shah Zeb</strong></h1>
+<h1 align="center">Hi, I'm <strong>Shah Zeb</strong></h1>
 <h3 align="center">Flutter Developer • Mobile App Engineer • Tech Enthusiast</h3>
 
 <p align="center">
@@ -108,22 +108,6 @@ Beautiful frontend
 
 ---
 
-##  GitHub Activity Overview  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits-Active-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/ShahZeb?style=for-the-badge&label=Followers" />
-  <img src="https://img.shields.io/github/repo-size/ShahZeb?style=for-the-badge&label=Repo%20Size" />
-  <img src="https://img.shields.io/github/stars/ShahZeb?style=for-the-badge&label=Total%20Stars" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahZeb&theme=react-dark&hide_border=true" width="90%"/>
-</p>
-
-> These sections do **not** depend on high insights — they show your real activity like a portfolio.
-
----
 
 ## 🌐 Connect With Me  
 
