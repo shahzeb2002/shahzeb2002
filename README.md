@@ -1,95 +1,135 @@
-<!-- Ultra Premium GitHub Profile README -->
+<!-- Portfolio-Style GitHub Profile README -->
 
 <h1 align="center">👋 Hi, I'm <strong>Shah Zeb</strong></h1>
-<h3 align="center">Flutter Developer | Mobile App Engineer | Tech Learner</h3>
+<h3 align="center">Flutter Developer • Mobile App Engineer • Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450px">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="430px" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
 
-I am a **Flutter Developer** passionate about building clean, fast, and modern mobile applications.  
-I focus on writing **scalable UI**, clean code, and delivering smooth user experiences using Flutter & Dart.
+I’m a **Flutter Developer** focused on building clean, modern, and scalable mobile applications.  
+I write apps with **beautiful UI, smooth UX, structured code, and production-ready architecture**.
 
-- 🔹 Experienced in **real-time chat apps, notes apps, Adidas UI clone, WhatsApp UI clone, calculators, authentication systems & REST API integrations**  
-- 🔹 Comfortable with **Firebase, OOP, UI design, stateful/stateless widgets, navigation, and responsive layouts**  
-- 🔹 Currently learning **Firebase Auth, Firestore, provider/state management & clean architecture**  
-- 🎯 **Career Goal:** Become a full-stack Flutter developer capable of building production-ready, high-performance apps  
-- ⚡ Fun fact: I improve my apps daily—even small 1% improvements matter  
+- 🔹 Experience with **real-time apps, local DB apps, UI clones, REST APIs & authentication**
+- 🔹 Skilled in **responsive layouts, animations, reusable components & widget architecture**
+- 🔹 Learning **Firebase, state management patterns & clean architecture**
+- 🎯 Goal: Become a **full-stack Flutter engineer** who builds high-quality, real-world mobile solutions
 
 ---
 
-## 🛠 Tech Expertise  
+## 🔧 Skills & Technologies  
 
 ### **Languages & Frameworks**
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-0468D7?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### **Database & Backend**
+### **Local Databases**
+<p align="center">
+  <img src="https://img.shields.io/badge/Hive-FFB000?style=for-the-badge&logo=hive&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Isar_DB-5C2D91?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
+
+### **Backend & Cloud**
 <p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### **Tools & Other Skills**
+### **Tools & Environments**
 <p align="center">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Featured Projects  
+## 📌 What I Do  
 
-### 🔹 **Real-Time Chat App (Flutter + Firebase)**
-A full chat messaging system with:
-- ✔ Firebase Auth  
-- ✔ Real-time Firestore messaging  
-- ✔ Message status, online/offline indicators  
-- ✔ Stunning chat UI  
+### **📱 Mobile App Development**
+- Full UI design & implementation  
+- Navigation, state management, animations  
+- API integration, Firebase services  
 
-### 🔹 **Notes App (Local Storage + Clean UI)**
-- ✔ Add, update, delete notes  
-- ✔ Categories, search, pin features  
-- ✔ Beautiful UI with smooth animations  
+### **🗄 Local Database Apps**
+- Hive & Isar for fast offline apps  
+- CRUD, caching, syncing  
 
-### 🔹 **WhatsApp UI Clone**
-- ✔ Chats, status, calls  
-- ✔ Fully responsive design  
-- ✔ High-fidelity pixel-perfect replicate  
+### **🔐 Authentication Systems**
+- Firebase Auth  
+- Token/JWT-based login  
 
-### 🔹 **Adidas UI Clone**
-- ✔ Modern UI  
-- ✔ Smooth scroll animations  
-- ✔ Reusable components  
-
-> Want me to rewrite these project descriptions into **professional portfolio style**? I can make it even more premium.
+### **🎨 UI/UX Replication**
+- Pixel-perfect clone UIs (Adidas, WhatsApp, custom screens)  
+- Clean themes, responsive layouts  
 
 ---
 
-## 📊 GitHub Insights  
+## ⭐ Featured Projects  
+
+### 🔹 **Real-Time Chat App**  
+A complete messaging app using Firebase  
+- Real-time Firestore messaging  
+- Authentication  
+- Seen status, online/offline, chat bubbles  
+- Modern chat UI  
+
+---
+
+### 🔹 **Notes App (Hive/Isar)**  
+Local offline notes system  
+- Add, edit, delete  
+- Search & filtering  
+- Pin notes  
+- Smooth UI animations  
+
+---
+
+### 🔹 **WhatsApp UI Clone**  
+Pixel-perfect design  
+- Chats, calls, status UI  
+- Tab navigation  
+- Clean component structure  
+
+---
+
+### 🔹 **Adidas Store UI**  
+Beautiful frontend  
+- Animations  
+- Product layouts  
+- Reusable widgets  
+
+---
+
+## 📈 GitHub Activity Overview  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahZeb&theme=highcontrast&hide_border=true" width="60%"/>
+  <img src="https://img.shields.io/badge/Commits-Active-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ShahZeb?style=for-the-badge&label=Followers" />
+  <img src="https://img.shields.io/github/repo-size/ShahZeb?style=for-the-badge&label=Repo%20Size" />
+  <img src="https://img.shields.io/github/stars/ShahZeb?style=for-the-badge&label=Total%20Stars" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahZeb&layout=compact&theme=highcontrast&hide_border=true" width="40%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahZeb&theme=react-dark&hide_border=true" width="90%"/>
 </p>
+
+> These sections do **not** depend on high insights — they show your real activity like a portfolio.
 
 ---
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/shah-zeb-23388b1aa" target="_blank">
+  <a href="https://linkedin.com/in/shah-zeb-23388b1aa">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
   </a>
   <a href="mailto:shahzebakbar1@gmail.com">
@@ -99,4 +139,4 @@ A full chat messaging system with:
 
 ---
 
-<h2 align="center">✨ Building. Learning. Growing — One App at a Time.</h2>
+<h2 align="center">🚀 Building Apps • Learning Daily • Improving Consistently</h2>
