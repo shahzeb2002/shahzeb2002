@@ -14,10 +14,9 @@
 I’m a **Flutter Developer** focused on building clean, modern, and scalable mobile applications.  
 I write apps with **beautiful UI, smooth UX, structured code, and production-ready architecture**.
 
-- 🔹 Experience with **real-time apps, local DB apps, UI clones, REST APIs & authentication**
-- 🔹 Skilled in **responsive layouts, animations, reusable components & widget architecture**
-- 🔹 Learning **Firebase, state management patterns & clean architecture**
-- 🎯 Goal: Become a **full-stack Flutter engineer** who builds high-quality, real-world mobile solutions
+-  Experience with **real-time apps,Firebase, state management, clean architecture, local DB apps, UI clones, REST APIs & authentication,**
+-  Skilled in **responsive layouts, animations, reusable components & widget architecture**
+-  Goal: Become a **full-stack Flutter engineer** who builds high-quality, real-world mobile solutions
 
 ---
 
@@ -54,20 +53,20 @@ I write apps with **beautiful UI, smooth UX, structured code, and production-rea
 
 ## 📌 What I Do  
 
-### **📱 Mobile App Development**
+### ** Mobile App Development**
 - Full UI design & implementation  
 - Navigation, state management, animations  
 - API integration, Firebase services  
 
-### **🗄 Local Database Apps**
+### ** Local Database Apps**
 - Hive & Isar for fast offline apps  
 - CRUD, caching, syncing  
 
-### **🔐 Authentication Systems**
+### ** Authentication Systems**
 - Firebase Auth  
 - Token/JWT-based login  
 
-### **🎨 UI/UX Replication**
+### ** UI/UX Replication**
 - Pixel-perfect clone UIs (Adidas, WhatsApp, custom screens)  
 - Clean themes, responsive layouts  
 
@@ -75,7 +74,7 @@ I write apps with **beautiful UI, smooth UX, structured code, and production-rea
 
 ## ⭐ Featured Projects  
 
-### 🔹 **Real-Time Chat App**  
+###  **Real-Time Chat App**  
 A complete messaging app using Firebase  
 - Real-time Firestore messaging  
 - Authentication  
@@ -84,7 +83,7 @@ A complete messaging app using Firebase
 
 ---
 
-### 🔹 **Notes App (Hive/Isar)**  
+###  **Notes App (Hive/Isar)**  
 Local offline notes system  
 - Add, edit, delete  
 - Search & filtering  
@@ -93,7 +92,7 @@ Local offline notes system
 
 ---
 
-### 🔹 **WhatsApp UI Clone**  
+###  **WhatsApp UI Clone**  
 Pixel-perfect design  
 - Chats, calls, status UI  
 - Tab navigation  
@@ -101,7 +100,7 @@ Pixel-perfect design
 
 ---
 
-### 🔹 **Adidas Store UI**  
+###  **Adidas Store UI**  
 Beautiful frontend  
 - Animations  
 - Product layouts  
@@ -109,7 +108,7 @@ Beautiful frontend
 
 ---
 
-## 📈 GitHub Activity Overview  
+##  GitHub Activity Overview  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Commits-Active-blue?style=for-the-badge" />
@@ -139,4 +138,4 @@ Beautiful frontend
 
 ---
 
-<h2 align="center">🚀 Building Apps • Learning Daily • Improving Consistently</h2>
+<h2 align="center"> Building Apps • Learning Daily • Improving Consistently</h2>
